@@ -1,0 +1,32 @@
+#p-1{
+    color: green;
+}
+
+.p-2{
+    color: red;
+}
+
+.p-3{
+    text-decoration: overline underline;
+}
+
+.p-4{
+    font-size: 60px;
+}
+
+.p-5{
+    color: blue;
+}
+
+.p-6{
+    color: red;
+}
+
+.c-1{
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    font-size: 30px;
+}

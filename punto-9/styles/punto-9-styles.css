@@ -1,0 +1,44 @@
+table{
+    border-collapse: collapse;
+    background-color: yellow;
+    margin: auto;
+}
+
+.l-1{
+    color: red;
+    display: flex;
+    justify-content: space-around;
+    border-top: 1px dotted black;
+    border-left: 1px dotted black;
+    border-right: 1px dotted black;
+}
+
+.l-2-3{
+    border: 1px dotted black;
+    
+}
+
+.l-4{
+    border-bottom: 1px dashed red;
+    border-left: 1px dotted black;
+    border-right: 1px dotted black;
+}
+
+.c-1{
+    max-width: 50rem;
+    min-width: 50rem;
+}
+
+.c-2{
+    max-width: 50rem;
+    min-width: 50rem;
+}
+
+.c-3{
+    max-width: 50rem;
+    min-width: 50rem;
+}
+
+span{
+    font-size: 70%;
+}

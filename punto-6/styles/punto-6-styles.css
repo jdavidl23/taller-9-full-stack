@@ -1,0 +1,15 @@
+.p-1{
+    color: yellow;
+}
+
+.p-2{
+    color: darkmagenta;
+}
+
+.c-1{
+    display: flex;
+    justify-content: center;
+}
+p{
+    font-size: 80px;
+}
